@@ -5,3 +5,9 @@
 	logallrefupdates = true
 	ignorecase = true
 	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com-mohantysan:mohantysan/blog.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = mohantysan
+	email = santa.jyp+github@gmail.com
